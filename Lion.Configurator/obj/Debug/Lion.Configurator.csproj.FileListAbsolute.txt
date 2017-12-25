@@ -3,3 +3,9 @@ c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\Lion.Configura
 c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\Lion.Configurator\obj\Debug\Lion.Configurator.dll
 c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\Lion.Configurator\obj\Debug\Lion.Configurator.pdb
 c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\Lion.Configurator\obj\Debug\Lion.Configurator.csprojResolveAssemblyReference.cache
+C:\Users\tc34905\Source\Repos\LionProject\Lion.Configurator\bin\Debug\Lion.Configurator.dll
+C:\Users\tc34905\Source\Repos\LionProject\Lion.Configurator\bin\Debug\Lion.Configurator.pdb
+C:\Users\tc34905\Source\Repos\LionProject\Lion.Configurator\obj\Debug\Lion.Configurator.csprojResolveAssemblyReference.cache
+C:\Users\tc34905\Source\Repos\LionProject\Lion.Configurator\obj\Debug\Lion.Configurator.csproj.CoreCompileInputs.cache
+C:\Users\tc34905\Source\Repos\LionProject\Lion.Configurator\obj\Debug\Lion.Configurator.dll
+C:\Users\tc34905\Source\Repos\LionProject\Lion.Configurator\obj\Debug\Lion.Configurator.pdb
