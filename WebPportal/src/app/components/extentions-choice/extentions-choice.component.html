@@ -1,0 +1,14 @@
+
+
+
+<p-panel [collapsed]="checked"  [toggleable]="true" [style]="{'margin-bottom':'20px'}">
+    <p-header [style]="{'color':'red'}">
+        <p-checkbox [(ngModel)]="checked" binary="true" disabled="true"></p-checkbox>
+        choose extentsions file to copy
+    </p-header>
+    <p-listbox  [options]="extension" [style]="{'width' : '100%'}" (onChange)="onChange()" [(ngModel)]="selectedExtension" multiple="multiple" checkbox="checkbox" optionLabel="Value">
+    </p-listbox>
+</p-panel>
+<div class="listbox">
+
+</div>

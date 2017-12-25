@@ -1,0 +1,15 @@
+<p-panel (onAfterToggle)="onAfterToggle($event)" [toggleable]="true" [collapsed]="state==projectlist ? true : false" [style]="{'margin-bottom':'20px'}">
+    <p-header [style]="{'color':'red'}">
+        <p-checkbox [(ngModel)]="checked" binary="true" disabled="true"></p-checkbox>
+        choose software and version
+    </p-header>
+<p-dataTable bodyStyleClass="column" [value]="projects" [rows]="10" [paginator]="false" selectionMode="single"  [(selection)]="selectedProject" (onRowSelect)="onRowSelect($event)">
+  <p-header>List of Projects in Server</p-header>
+  <p-column field="ProjectName" header="Project Name" [filter]="false" filterMatchMode="equals">
+</p-column>
+  <p-column field="ProjecVersion" header="Projec Version" [filter]="false" filterMatchMode="equals">
+  </p-column>
+  <p-column field="ProjectDateModified" header="Date Modified" [filter]="false" filterMatchMode="equals">
+</p-column>
+</p-dataTable>
+</p-panel>

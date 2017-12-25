@@ -1,0 +1,6 @@
+<app-menu-bar (authorClick) = "showAuthorFromParent($event)"></app-menu-bar>
+<app-project-list-component [(state)]="state"  (ProjectSelectedChanged)="ProjectSelectedChangedHandler($event)" [projects]="projects"></app-project-list-component>
+<app-pc-list-component [(state)]="state" [pcs]="pcs" (PcSelectedChanged)="PcSelectedChangedHandler($event)" ></app-pc-list-component>
+<app-extentions-choice [(state)]="state" [extension]="extension" (ExtensionSelectedChanged)="ExtensionSelectedChangedHandler($event)" ></app-extentions-choice>
+
+

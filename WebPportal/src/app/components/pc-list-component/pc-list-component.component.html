@@ -1,0 +1,15 @@
+<p-panel (onAfterToggle)="onAfterToggle($event)" [toggleable]="true" [collapsed]="state!=pctlist" [style]="{'margin-bottom':'20px'}">
+    <p-header [style]="{'color':'red'}">
+        <p-checkbox [(ngModel)]="checked" binary="true" disabled="true"></p-checkbox>
+        choose Pc's to copy
+    </p-header>
+<p-dataTable bodyStyleClass="column" [value]="pcs" [rows]="10" [paginator]="false" selectionMode="multiple" [(selection)]="PcSelected"  (onRowUnselect)="onRowUnselect(event)" (onRowSelect)="onRowSelect($event)">
+  <p-column [style]="{'width':'38px'}" selectionMode="multiple"></p-column>
+  <p-column field="@Hostname" header="Host Name" [filter]="false" filterMatchMode="equals">
+</p-column>
+  <p-column field="@UserName" header="User Name" [filter]="false" filterMatchMode="equals">
+  </p-column>
+  <p-column field="@Password" header="Password" [filter]="false" filterMatchMode="equals">
+</p-column>
+</p-dataTable>
+</p-panel>

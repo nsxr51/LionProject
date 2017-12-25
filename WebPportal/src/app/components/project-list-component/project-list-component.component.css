@@ -1,0 +1,7 @@
+.column{
+    text-align: center
+}
+.ui-widget-header ::before{
+    background: red !important;
+    color: red !important;
+}

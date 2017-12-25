@@ -1,0 +1,5 @@
+<p-messages [(value)]="msgs"></p-messages>
+<p-menubar [style]="{'padding':'10px'}" [model]="items"></p-menubar>
+<p-dialog header="Uplaod pcs configuration file" [(visible)]="display">
+  <p-fileUpload mode="basic" name="demo[]" url="http://localhost:7331/api/configuration/uploadxmlpcs" accept=".xml" maxFileSize="1000000" (onUpload)="onBasicUpload($event)"></p-fileUpload>
+</p-dialog>
