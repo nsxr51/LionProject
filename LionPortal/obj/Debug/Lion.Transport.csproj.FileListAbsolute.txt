@@ -1,0 +1,5 @@
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\LionPortal\bin\Debug\Lion.Transport.dll
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\LionPortal\bin\Debug\Lion.Transport.pdb
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\LionPortal\obj\Debug\Lion.Transport.csprojResolveAssemblyReference.cache
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\LionPortal\obj\Debug\Lion.Transport.dll
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\LionPortal\obj\Debug\Lion.Transport.pdb

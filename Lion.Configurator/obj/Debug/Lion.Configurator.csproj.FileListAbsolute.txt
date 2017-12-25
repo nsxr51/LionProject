@@ -1,0 +1,5 @@
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\Lion.Configurator\bin\Debug\Lion.Configurator.dll
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\Lion.Configurator\bin\Debug\Lion.Configurator.pdb
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\Lion.Configurator\obj\Debug\Lion.Configurator.dll
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\Lion.Configurator\obj\Debug\Lion.Configurator.pdb
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\Lion.Configurator\obj\Debug\Lion.Configurator.csprojResolveAssemblyReference.cache

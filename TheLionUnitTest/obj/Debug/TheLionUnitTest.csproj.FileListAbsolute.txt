@@ -1,0 +1,9 @@
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\TheLionUnitTest\bin\Debug\TheLionUnitTest.dll
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\TheLionUnitTest\bin\Debug\TheLionUnitTest.pdb
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\TheLionUnitTest\bin\Debug\Lion.Transport.dll
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\TheLionUnitTest\bin\Debug\Lion.Transport.pdb
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\TheLionUnitTest\obj\Debug\TheLionUnitTest.csprojResolveAssemblyReference.cache
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\TheLionUnitTest\obj\Debug\TheLionUnitTest.dll
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\TheLionUnitTest\obj\Debug\TheLionUnitTest.pdb
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\TheLionUnitTest\bin\Debug\Lion.Configurator.dll
+c:\users\tc34905\documents\visual studio 2013\Projects\LionPortal\TheLionUnitTest\bin\Debug\Lion.Configurator.pdb
